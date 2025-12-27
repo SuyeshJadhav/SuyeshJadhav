@@ -260,9 +260,9 @@ const currentFocus = {
 
 | 🎵 **Flow State Soundtrack** | 🎮 **Favorite Games** | 🌱 **Currently Learning** |
 | :---: | :---: | :---: |
-| Martin Garrix 🎧 | Pico Park 🐾 | LangChain 🦜 |
-| Kygo 🎹 | Among Us 🚀 | System Design 🏗️ |
-| Fred Again.. 🎶 | Valorant 🎯 | WebGPU 🖥️ |
+| Martin Garrix 🎧 | Stray 🐾 | LangChain 🦜 |
+| Kygo 🎹 | Valorant 🚀 | System Design 🏗️ |
+| Fred Again.. 🎶 | League of Legends 🎯 | WebGPU 🖥️ |
 
 ---
 
