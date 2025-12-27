@@ -204,7 +204,7 @@ Stack: Flutter • Dart • Firebase • Cloud Firestore
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/? username=SuyeshJadhav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SuyeshJadhav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -214,7 +214,7 @@ Stack: Flutter • Dart • Firebase • Cloud Firestore
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel. app/graph?username=SuyeshJadhav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F8D866&point=C9D1D9)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuyeshJadhav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F8D866&point=C9D1D9)
 
 </div>
 
