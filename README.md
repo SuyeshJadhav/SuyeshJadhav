@@ -14,7 +14,7 @@
 
 ### *"I architect local-first intelligent systems that prioritize data sovereignty, sub-10ms latency, and elegant developer experiences."*
 
-<img src="https://readme-typing-svg.demolab. com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+Infrastructure+Engineer;Full-Stack+Performance+Optimizer;ReAct+Agent+Architect;Privacy-First+System+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+Infrastructure+Engineer;Full-Stack+Performance+Optimizer;ReAct+Agent+Architect;Privacy-First+System+Designer" alt="Typing SVG" />
 
 </div>
 
@@ -83,7 +83,7 @@ class SuyeshJadhav:
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032? style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
