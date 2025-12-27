@@ -246,31 +246,23 @@ const currentFocus = {
 
 ## 💡 Engineering Philosophy
 
-<div align="center">
-
 | Principle | Why It Matters |
-|: ----------|:---------------|
+| :--- | :--- |
 | **🔒 Privacy-First** | Your data shouldn't leave your machine to be useful |
 | **⚡ Performance-Obsessed** | Every millisecond of latency compounds at scale |
 | **🎨 Developer Experience** | Great tools should feel like magic, not work |
 | **📐 Clean Architecture** | Code is read 10x more than it's written |
 | **🧪 Test-Driven** | Confidence comes from coverage, not hope |
 
-</div>
-
 ---
 
 ## ⚡ Beyond the Code
 
-<div align="center">
-
 | 🎵 **Flow State Soundtrack** | 🎮 **Favorite Games** | 🌱 **Currently Learning** |
-|:---------------------------:|:---------------------:|: ------------------------:|
-| Martin Garrix 🎧 | Valorant | GO |
-| Kygo 🎹 | League of Legends | System Design 🏗️ |
-| Fred Again..  🎶 | Stray | LangChain 🖥️ |
-
-</div>
+| :---: | :---: | :---: |
+| Martin Garrix 🎧 | Pico Park 🐾 | LangChain 🦜 |
+| Kygo 🎹 | Among Us 🚀 | System Design 🏗️ |
+| Fred Again.. 🎶 | Valorant 🎯 | WebGPU 🖥️ |
 
 ---
 
