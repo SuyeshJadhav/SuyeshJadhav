@@ -245,7 +245,8 @@ const currentFocus = {
 ---
 
 ## 💡 Engineering Philosophy
-
+<div align="center">
+    
 | Principle | Why It Matters |
 | :--- | :--- |
 | **🔒 Privacy-First** | Your data shouldn't leave your machine to be useful |
@@ -253,28 +254,32 @@ const currentFocus = {
 | **🎨 Developer Experience** | Great tools should feel like magic, not work |
 | **📐 Clean Architecture** | Code is read 10x more than it's written |
 | **🧪 Test-Driven** | Confidence comes from coverage, not hope |
+</div>
 
 ---
 
 ## ⚡ Beyond the Code
-
+<div align="center">
+    
 | 🎵 **Flow State Soundtrack** | 🎮 **Favorite Games** | 🌱 **Currently Learning** |
 | :---: | :---: | :---: |
 | Martin Garrix 🎧 | Stray 🐾 | LangChain 🦜 |
 | Kygo 🎹 | Valorant 🚀 | System Design 🏗️ |
 | Fred Again.. 🎶 | League of Legends 🎯 | WebGPU 🖥️ |
 
+</div>
+
 ---
 
 ## 🤝 Let's Connect & Collaborate
-
-<div align="center">
 
 I'm always interested in discussing:  
 - 🤖 **Local-first AI architecture** and privacy-preserving ML
 - ⚡ **Performance optimization** strategies for full-stack systems
 - 🎨 **Developer tooling** and framework design
 - 🎮 **Interactive visualizations** with D3.js/Three.js
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyeshjadhav)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smjadha2@ncsu.edu)
