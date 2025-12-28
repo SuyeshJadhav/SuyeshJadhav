@@ -199,15 +199,6 @@ Stack: Flutter • Dart • Firebase • Cloud Firestore
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SuyeshJadhav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
