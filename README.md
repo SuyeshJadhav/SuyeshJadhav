@@ -193,7 +193,8 @@ Stack: Flutter • Dart • Firebase • Cloud Firestore
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuyeshJadhav)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-silk-gamma.vercel.app/?user=SuyeshJadhav&theme=tokyonight)](https://git.io/streak-stats)
+
 
 </div>
 
