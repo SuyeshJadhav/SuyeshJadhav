@@ -182,19 +182,18 @@ Stack: Flutter • Dart • Firebase • Cloud Firestore
 </table>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuyeshJadhav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyeshJadhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9&langs_count=8"/>
+
+<img height="180em" src="https://github-readme-stats-tan-alpha.vercel.app/api?username=SuyeshJadhav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats-tan-alpha.vercel.app/api/top-langs/?username=SuyeshJadhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuyeshJadhav&theme=tokyonight&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F8D866&currStreakLabel=F75C7E)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuyeshJadhav&theme=tokyonight&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F8D866&currStreakLabel=F75C7E)](https://git.io/streak-stats)
 
 </div>
 
