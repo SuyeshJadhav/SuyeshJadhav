@@ -274,7 +274,7 @@ I'm always interested in discussing:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyeshjadhav)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smjadha2@ncsu.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suyeshjadhav.me)
 
 <img src="https://komarev.com/ghpvc/?username=SuyeshJadhav&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
